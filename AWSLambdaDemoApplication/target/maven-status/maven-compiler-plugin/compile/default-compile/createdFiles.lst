@@ -1,0 +1,7 @@
+org\impelsys\awslambdademoapplication\controller\BucketController.class
+org\impelsys\awslambdademoapplication\requesthandler\ServiceHandler.class
+org\impelsys\awslambdademoapplication\controller\SQSController.class
+org\impelsys\awslambdademoapplication\config\WebConfig.class
+org\impelsys\awslambdademoapplication\controller\SNSController.class
+org\impelsys\awslambdademoapplication\App.class
+org\impelsys\awslambdademoapplication\config\AmazonConfig.class
